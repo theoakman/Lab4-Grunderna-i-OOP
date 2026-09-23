@@ -12,11 +12,13 @@
             circle1 = new Circle(radius1);
             circle1.GetArea();
             circle1.GetCircumference();
+            circle1.GetVolume();
             circle1.DisplayStats();
 
             circle2 = new Circle(radius2);
             circle2.GetArea();
             circle2.GetCircumference();
+            circle2.GetVolume();
             circle2.DisplayStats();
 
 
